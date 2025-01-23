@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kaspanet/kaspad/app/appmessage"
+	"github.com/cryptix-network/cryptixd/app/appmessage"
 	"github.com/onemorebsmith/kaspastratum/src/gostratum"
 )
 
